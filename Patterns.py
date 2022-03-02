@@ -1,3 +1,4 @@
+# Program of full pyramid 
 n= int(input("Please Enter the number of rows: "))
 for i in range(1,2*n):
     if i<=n:
